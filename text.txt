@@ -1,7 +1,3 @@
 im harish
-<<<<<<< HEAD
-devopsj
-=======
 devops
->>>>>>> test
 
